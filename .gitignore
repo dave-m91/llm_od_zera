@@ -1,3 +1,5 @@
 venv
 project/__pycache__
 __pycache__
+*.pth
+/notebooks/gpt2
